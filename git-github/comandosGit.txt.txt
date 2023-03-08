@@ -1,0 +1,6 @@
+cd - Ir para uma pasta.
+dir - listar todas as pastas onde você está.
+mkdir - cria uma nova pasta dentro da pasta que você está.
+del - deleta apenas a pasta indicada.
+rmdir - deleta todas as pastas que estão dentro da pasta que você indicar para ser deletada.
+echo - printa de volta o que foi digitado anteriormente.
